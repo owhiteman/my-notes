@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657855669577",
+    "project_id": "mynotes-whitemanoc",
+    "storage_bucket": "mynotes-whitemanoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657855669577:android:eb3e21d9c296f5244a2698",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657855669577-r4ans2bapccou6f0gaoge056pp0nmov6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdoEdeUbz8Yy6VlaX0N9dxV8pPZI2poa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657855669577-r4ans2bapccou6f0gaoge056pp0nmov6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
